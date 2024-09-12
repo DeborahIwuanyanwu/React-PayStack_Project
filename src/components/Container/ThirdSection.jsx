@@ -66,7 +66,7 @@ const Container = styled.div`
   height: 550px;
 `;
 const ContaainerHolder = styled.div`
-  width: 95%;
+  width: 85%;
   height: 100%;
 `;
 const LeftContainer = styled.div`
@@ -74,6 +74,9 @@ const LeftContainer = styled.div`
   height: 100%;
 `;
 const LeftHolder = styled.div`
+width: 100%;
+height: 100%;
+background-color: #f7ffff;
   display: flex;
   align-items: center;
   justify-content: center;

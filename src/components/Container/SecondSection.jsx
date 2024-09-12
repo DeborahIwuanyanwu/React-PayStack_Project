@@ -26,7 +26,7 @@ const Container = styled.div`
   justify-content: center;
 `;
 const ContainerHolder = styled.div`
-  width: 95%;
+  width: 85%;
   display: flex;
   align-items: center;
   justify-content: center;
